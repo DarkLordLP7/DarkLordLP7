@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DarkLordLP7
-- 👀 I’m interested in coding Java & C++ & Python
+- 👀 I’m interested in coding Java, C++ & Python
 - 🌱 I’m currently learning Java
 - 📫 How to reach me darklordlp7@mail.de
