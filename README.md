@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DarkLordLP7
 - 👀 I’m interested in coding C#
-- 📫 How to reach me darklordlp7@mail.de
+- 📫 How to reach me contact@darklordlp7.eu
