@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @DarkLordLP7
-- 👀 I’m interested in Java and C#
-- 📫 How to reach me contact@darklordlp7.eu
